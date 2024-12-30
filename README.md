@@ -1,8 +1,6 @@
-# material-design
+# quarkus-htmx-material-tailwind
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
-
-If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
+Example project with Material-Tailwind configure using Quarkus Quinoa and HTMX
 
 ## Running the application in dev mode
 
@@ -58,19 +56,3 @@ If you want to learn more about building native executables, please consult <htt
 - Renarde ([guide](https://quarkiverse.github.io/quarkiverse-docs/quarkus-renarde/dev/index.html)): Renarde is a server-side Web Framework based on Quarkus, Qute, Hibernate and RESTEasy Reactive.
 - Web Dependency Locator ([guide](https://quarkus.io/guides/web-dependency-locator)): Simplify paths and importmap support for Web dependencies
 - Quinoa ([guide](https://quarkiverse.github.io/quarkiverse-docs/quarkus-quinoa/dev/index.html)): Develop, build, and serve your npm-compatible web applications such as React, Angular, Vue, Lit, Svelte, Astro, SolidJS, and others alongside Quarkus.
-
-## Provided Code
-
-### Quinoa
-
-Quinoa codestart added a tiny Vite app in src/main/webui. The page is configured to be visible on <a href="/quinoa">/quinoa</a>.
-
-[Related guide section...](https://quarkiverse.github.io/quarkiverse-docs/quarkus-quinoa/dev/index.html)
-
-
-### Renarde
-
-This is a small Renarde webapp. Once the quarkus app is started visit http://localhost:8080/renarde
-
-[Related guide section...](https://quarkiverse.github.io/quarkiverse-docs/quarkus-renarde/dev/index.html)
-
